@@ -1,0 +1,9 @@
+Welcome to my humble app! Let me guide you to Budapests most liked attractions. Click on one of the names, I will tell you about it and I will even show it on the map!
+
+Parliament of Budapest is the seat of the National Assembly of Hungary. It was built from 1884 to 1904, designed Imre Steindl in a neo-Gothic style. Thanks to the work of multiple great restaurators through the years like Temesváry Bruder Katalin, the Hungarian Parliament is in a great condition even after 100 years, two world wars and the '56 revolution!
+
+Vajdahunyad Castle was built in 1896 as part of the Millennial Exhibition which celebrated the 1,000 years of Hungary. The castle was designed by Ignác Alpár and features copies of several landmark buildings from different parts of the former Kingdom of Hungary and so it displays different architectural styles: Romanesque, Gothic, Renaissance, and Baroque. Originally, it was made from cardboard and wood, but due to its popularity it was rebuilt from stone and brick between 1904 and 1908. Today, it houses the Museum of Hungarian Agriculture, the biggest agricultural museum in Europe.
+
+The statue of the chronicler Anonymus (by Miklós Ligeti) is also displayed in the castle court. Anonymus lived in the 12th century (his true identity is unknown, but he was a notary of Béla III of Hungary), who wrote the chronicle Gesta Hungarorum (Deeds of the Hungarians). 
+
+Buda Castle is the historical castle and palace complex of the Hungarian kings in Budapest. It was first completed in 1265, but the original castle was destroyed during WWII and the massive Baroque palace today occupying its place was built between 1749 and 1769. It's now home to the Hungarian National Gallery and The Budapest History Museum. 
