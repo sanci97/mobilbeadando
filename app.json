@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "trembling-pretzels",
+    "name": "touristguidedemo",
     "slug": "snack-ec104925-5299-4dea-b374-943ad0188519",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./src/assets/logo2.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./src/assets/logo2.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -20,7 +20,7 @@
       "supportsTablet": true
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./src/assets/logo2.png"
     }
   }
 }

@@ -5,19 +5,24 @@ var React = require('react-native');
 const styles = React.StyleSheet.create({
   titleText: {
     fontWeight: 'bold',
-    marginVertical: 4,
     textAlign: 'center',
-    justifyContent: 'center',
     fontSize: 50,
-    paddingVertical: 10,
+    color: "white",
   },
   img: {
-    width: '100%',
-    textAlign: 'center',
-    resizeMode: 'contain',
+    flex: 1,
+    paddingTop: 60,
+    paddingBottom: 60,
+    width: null,
+    height: 400
+  },
+  margin: {
+    padding: 20,
   },
   mainText: {
-    padding: 20,
+    textAlign: 'justify',
+    fontSize: 15,
+    color: "white",
   },
   mapButton: {
     padding: 50,
@@ -34,7 +39,8 @@ const styles = React.StyleSheet.create({
     fontWeight: 'bold',
     textAlign: 'center',
     fontSize: 30,
-    paddingVertical: 10,
+    paddingVertical: 3,
+    color: "white",
   },
 });
 
